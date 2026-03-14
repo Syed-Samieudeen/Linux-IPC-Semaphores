@@ -102,10 +102,11 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
-
+![sem](sem.jpeg)
 
 
 $ ipcs
+![ipcs](ipcss.jpeg)
 
 
 
